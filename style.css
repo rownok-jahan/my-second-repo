@@ -1,0 +1,15 @@
+.heading1{
+    background-color: green;
+    color: red;
+    font-size: 40px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.para1{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+}
